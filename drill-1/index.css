@@ -1,0 +1,43 @@
+
+  .content-box-middle{
+    background-color:rgb(253, 253, 253);
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+  }
+ 
+  .content-box-top { 
+    background-color:rgb(51, 50, 50);
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+  }
+  .content-box-footer{
+    background-color:rgb(51, 50, 50);
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+  }
+  .content-box-side-left{
+    position: fixed; 
+    background-color: lightgray; 
+    width: 8%; height: 5000px; 
+    margin: auto; 
+    padding: 0; left: 0; 
+    top: 0; 
+    bottom: 80%; 
+    right: 100%;
+    
+  }
+  .content-box-side-right {
+    position: fixed;
+    background-color: lightgray;
+    width: 8%;
+    height: 5000px;
+    margin: auto;
+    padding: 0;
+    left: 100;
+    top: 0;
+    bottom: 80%;
+    right: 0;
+}

@@ -1,0 +1,32 @@
+
+.content-box1 {
+    background-color: rgb(216, 216, 216);
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .content-box2 {
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .content-box-3 {
+    background-color: rgb(74, 144, 226);
+    padding: 25px;
+  }
+  
+  .content-box-4{
+    background-color: rgb(80, 227, 194);
+    padding: 25px;
+  }
+  
+  .content-box-5 {
+    background-color: rgb(159, 214, 104);
+    padding: 25px;
+  }
+  
+  .content-box-6 {
+    background-color: rgb(231, 220, 96);
+    padding: 25px;
+  }
